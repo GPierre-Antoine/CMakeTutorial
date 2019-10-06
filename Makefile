@@ -1,4 +1,4 @@
-all: clean debug
+refresh-cmake: clean debug
 
 clean:
 	gitRemove -f
