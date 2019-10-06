@@ -5,11 +5,7 @@
 
 
 #ifdef USE_MYMATH
-
-
 #include "MathFunctions.h"
-
-
 #else
 #include <cmath>
 #endif
