@@ -10,7 +10,7 @@ cmake-build-debug:
 
 
 Tutorial: cmake-build-debug
-	cd cmake-build-debug && make
+	cd cmake-build-debug && cmake --build . --target Tutorial -- -j 2
 
 .PHONY: tests
 tests: Tutorial
