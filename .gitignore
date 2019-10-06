@@ -1,5 +1,7 @@
-CMakeCache.txt
+.idea/
 CMakeFiles
+cmake-build-*
+CMakeCache.txt
 CMakeScripts
 Testing
 Makefile
